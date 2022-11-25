@@ -7,7 +7,7 @@ n2 = int(input("Second number"))
 if operation == 1:
     print(n1+n2)
 if operation == 2:
-    print(abs(n1-n2))
+    print(n1-n2)
 if operation == 3:
     print(n1*n2)
 if operation == 4:
